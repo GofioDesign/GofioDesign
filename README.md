@@ -10,8 +10,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with same as previous
 - 💬 Ask me about anything!
 - 📫 How to reach me: gofio.design  [at] gmail [dot] com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: Gofio Design its an idea I had 25 years ago, my other profile is @juanalbglz
 
 <!--
 **GofioDesign/GofioDesign** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
